@@ -33,7 +33,7 @@ Map<String, dynamic> getAboutMe() {
 
 ## 🔥My Github Streak
 <p align="center">
-    <a href="https://github.com/Tuanpluss02/github-readme-streak-stats">
+    <a href="https://github.com/nhoklove059/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Tuan Plus's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Tuanpluss02&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
@@ -42,8 +42,8 @@ Map<String, dynamic> getAboutMe() {
 
 <!--   <br/> -->
 <p align="center">
-<img src="https://github.com/Tuanpluss02/github-stats./blob/master/generated/overview.svg#gh-dark-mode-only">
-<img src="https://github.com/Tuanpluss02/github-stats./blob/master/generated/languages.svg#gh-dark-mode-only">
+<img src="https://github.com/nhoklove059/github-stats./blob/master/generated/overview.svg#gh-dark-mode-only">
+<img src="https://github.com/nhoklove059/github-stats./blob/master/generated/languages.svg#gh-dark-mode-only">
 </p>
 <!-- <br/> -->
  
@@ -75,7 +75,7 @@ Map<String, dynamic> getAboutMe() {
 
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Tuanpluss02&style=flat&color=blueviolet" width="200" height="40">
+<img src="https://komarev.com/ghpvc/?username=nhoklove059&style=flat&color=blueviolet" width="200" height="40">
 </p>
 
 

@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Quang Hung</h1>
 <h3 align="center">I'm trying to be a Data Engineer</h3>
 <br/>
-<p align="center">
+<!-- <p align="center">
      <a href="https://www.linkedin.com/in/Tuanpluss02/"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&pause=1000&color=8E1AF7F7&width=435&lines=Software+and+cathedrals+are+much+the+same;First+we+build+them%2C+then+we+pray" alt="Typing SVG" /></a>
- </p>
+ </p> -->
 
 <p align="center">
     <img src="https://github.com/Tuanpluss02/Tuanpluss02/blob/output/github-contribution-grid-snake-dark.svg">
@@ -13,14 +13,10 @@
 ```Dart
 Map<String, dynamic> getAboutMe() {
   return {
-    'basicLanguage': ['C++', 'JavaScript', 'Kotlin'],
-    'mainLanguage': ['Dart', 'Python'],
-    'mobilePlatforms': ['Android', 'iOS'],
-    'frontend': ['Flutter', 'Vue.js'],
-    'backend': ['Firebase', 'FastAPI', 'Docker'],
-    'database': ['Firestore', 'MongoDB', 'PostgreSQL'],
-    'tools': ['Android Studio', 'Visual Studio Code', 'IntelliJ IDEA'],
-    'learning': ['Mobile Security', 'Push Notifications', 'BLoC Pattern'],
+    'basicLanguage': ['C++', 'Java', 'Python'],
+    'database': ['mySQL', 'SQL server'],
+    'tools': ['Visual Studio 2022', 'Visual Studio Code', 'SSMS 19', 'Power Bi'],
+    'learning': ['cloud', 'web', 'data'],
   };
 }
 ```

@@ -51,18 +51,19 @@ Map<String, dynamic> getAboutMe() {
  ## 🎵Rock with Spotify
 
 <p align="center">
-<img src="https://open.spotify.com/album/72UmHMO7Ub30Iiq0EhmOfE&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=true">
+<img src="https://open.spotify.com/album/72UmHMO7Ub30Iiq0EhmOfE">
 </p>
 
 
 ## 📢Discord
 
 <p align="center">
-<img src="discordapp.com/users/486784307273138207">
+<!--      https://discord.com/channels/486784307273138207 -->
+<img src="https://discord.com/channels/486784307273138207/widget.png?style=banner2" alt="Discord Banner 2"/>
 </p>
- -->
 
-<!--
+
+
 ## 👁️ Profile Views:
 <!---
 <p align="center">

@@ -55,14 +55,13 @@ Map<String, dynamic> getAboutMe() {
 <img src="https://open.spotify.com/album/72UmHMO7Ub30Iiq0EhmOfE">
 </p>
 
-
+<!--
 ## 📢Discord
 
 <p align="center">
 <!--      https://discord.com/channels/486784307273138207 -->
-<img src="https://discord.com/channels/486784307273138207/widget.png?style=banner2" alt="Discord Banner 2"/>
-</p>
-
+<!-- <img src="https://discord.com/channels/486784307273138207/widget.png?style=banner2" alt="Discord Banner 2"/>
+</p> -->
 
 
 ## 👁️ Profile Views:
